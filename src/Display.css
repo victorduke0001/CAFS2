@@ -1,0 +1,13 @@
+.display {
+  margin: auto;
+  border-radius: 0.25em;
+  box-shadow: 0 0 0 1px #ccc;
+  background-color: turquoise;
+}
+.tr {
+  border-radius: 0.25em;
+  box-shadow: 0 0 0 1px #ccc;
+}
+.details {
+  background-color: wheat;
+}

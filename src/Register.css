@@ -1,0 +1,20 @@
+.Register {
+  background-color: lightblue;
+  background-image: url("./assets/image/3.jpg");
+}
+.header {
+  color: white;
+}
+
+.form {
+  color: white;
+  display: inline-block;
+}
+.button {
+  font-size: 20px;
+  color: yellow;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  background: none;
+}

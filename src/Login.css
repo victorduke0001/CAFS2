@@ -1,0 +1,41 @@
+.login {
+  background-color: lightblue;
+  background-image: url("./assets/image/3.jpg");
+}
+.header {
+  color: white;
+}
+
+.form {
+  color: white;
+  display: inline-block;
+}
+.button {
+  font-size: 20px;
+  color: darkorange;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  background: none;
+  margin: 15px;
+}
+.btn {
+  font-size: 20px;
+  color: yellow;
+  align-self: center;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  background: none;
+  margin: 15px;
+}
+.btn btn-success {
+  font-size: 20px;
+  color: peru;
+  align-self: center;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  background: none;
+  margin: 15px;
+}

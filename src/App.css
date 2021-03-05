@@ -1,0 +1,11 @@
+.App {
+  align-self: center;
+  background-image: url("./assets/image/3.jpg");
+}
+
+button {
+  align-self: center;
+}
+.text {
+  color: white;
+}
